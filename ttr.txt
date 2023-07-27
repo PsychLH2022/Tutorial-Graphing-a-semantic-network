@@ -1,0 +1,25 @@
+rat
+tiger
+moue
+moose
+fox
+ dog
+ wolf
+ canary
+ fish
+ trout
+ ape
+ giraffe
+ xebu
+ antelope
+ rhino
+ hippo
+ lion
+ monkey
+ snake
+ baboon
+ orang
+ armadillo
+ anteater
+ wasp
+ 
