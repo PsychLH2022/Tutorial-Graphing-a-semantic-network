@@ -1,0 +1,21 @@
+dog
+cat
+wolf
+snake
+buffalo
+penguin
+bird
+lion
+zebra
+giraffe
+red panda
+panda
+monkey
+sheep
+lamb
+deer
+antelope
+fish
+dolphin 
+whale
+coyote
